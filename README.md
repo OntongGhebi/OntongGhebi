@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ghebi Armando</h1>
 <p align="center">
-  <em>Cloud Engineer | IoT Enthusiast | Fullstack Developer | Tech Educator</em>
+  <em> Fullstack Developer | Cloud Engineer | IoT Enthusiast | Tech Educator</em>
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 ### 🔥 About Me
 
 - 🌱 I’m currently deepening my expertise in **Cloud Infrastructure, IoT Systems, and Web APIs**
-- 🎓 Passionate about building scalable solutions with **FastAPI, Firebase, and React**
-- 🛠️ Actively contributing to smart systems like **Smart Aquarium**, **SafeBand**, and **MushScope**
+- 🎓 Passionate about building scalable solutions with **Node.JS, FastAPI, Firebase, and React**
+- 🛠️ Actively contributing to smart systems like **Smart Aquarium**, **FresJewellry**, and **MushScope**
 - 🚀 Exploring AI, edge computing, and modern web architecture
 - 💡 I'm also helping MSMEs go digital through community empowerment programs
 
@@ -63,8 +63,8 @@ Here are a few highlights of what I've been working on:
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [Ghebi Armando](https://www.linkedin.com/in/ghebi-armando/)
-- 🧠 Dicoding: [Ghebi Armando](https://www.dicoding.com/users/Ghebi%20Armando)
+- 💼 LinkedIn: [Ghebi Armando](https://www.linkedin.com/in/ghebi-armando-8b473424a/)
+- 🧠 Dicoding: [Ghebi Armando](https://www.dicoding.com/users/ghebi_armando_qv6g/academies)
 - 📬 Reach me via email: ghebiarmando@gmail.com
 
 ---
