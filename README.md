@@ -46,8 +46,6 @@ Here are a few highlights of what I've been working on:
 
 - 🔬 **[MushScope](https://github.com/OntongGhebi)** — Poisonous mushroom detection system using Computer Vision
 - 🐟 **Smart Aquarium** — IoT-based aquarium with automated feeding & monitoring system via Telegram bot
-- 🩺 **SafeBand** — Offline-capable wearable health monitor for elderly & field workers
-- 🌱 **Palm Oil Monitor** — Edge IoT system for determining palm fruit ripeness and oil quality
 - 🎓 **Academic Performance Prediction** — ML-based project for predicting student academic risk via LMS data
 
 ---
