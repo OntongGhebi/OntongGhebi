@@ -15,7 +15,6 @@
 - 🎓 Passionate about building scalable solutions with **Node.JS, FastAPI, Firebase, and React**
 - 🛠️ Actively contributing to smart systems like **Smart Aquarium**, **FresJewellry**, and **MushScope**
 - 🚀 Exploring AI, edge computing, and modern web architecture
-- 💡 I'm also helping MSMEs go digital through community empowerment programs
 
 ---
 
@@ -46,7 +45,7 @@ Here are a few highlights of what I've been working on:
 
 - 🔬 **[MushScope](https://github.com/OntongGhebi)** — Poisonous mushroom detection system using Computer Vision
 - 🐟 **Smart Aquarium** — IoT-based aquarium with automated feeding & monitoring system via Telegram bot
-- 🎓 **Academic Performance Prediction** — ML-based project for predicting student academic risk via LMS data
+- 🎓 **Archive Documentation** — Back-end dev project for archive a whole documentation for two sides in goverment intance in Lampung Province 
 
 ---
 
