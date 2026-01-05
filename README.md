@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7CB4D&center=true&lines= Building+scalable+and+impactful+systems; Cloud+%7C+AI+%7C+IoT+Engineering; Turning+ideas+into+real-world+products" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7CB4D&center=true&lines=Building+scalable+and+impactful+systems;Cloud+%7C+AI+%7C+IoT+Engineering;Turning+ideas+into+real-world+products" />
 </p>
 
 ---
