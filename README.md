@@ -71,6 +71,7 @@ AI-based image classification system to identify bee species, supporting biodive
 
 ### 🧠 AI Web Builder  
 AI-driven web application that **automatically generates website layouts and code** based on user prompts.
+Link: https://neo-site-tawny.vercel.app/
 
 ### 💳 Fintech Platform  
 Secure and scalable financial system featuring:
