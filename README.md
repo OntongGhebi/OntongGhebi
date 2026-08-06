@@ -34,7 +34,6 @@ My main focus is designing backend architectures, developing RESTful APIs, manag
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
 
 ---
 
@@ -85,7 +84,6 @@ Cloud experience:
 
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-333?style=flat)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat)
-![Edge AI](https://img.shields.io/badge/-AI%20Integration-333?style=flat)
 
 Experienced in integrating AI models into web applications through API-based architecture.
 
@@ -118,8 +116,9 @@ Responsibilities:
 - Deployed backend services using Google Cloud infrastructure
 
 Technologies:
-`NestJS` `Express.js` `Firebase` `Google Cloud` `REST API` `CNN`
+`Express.js` `Firebase` `Google Cloud` `REST API` `CNN`
 
+Demo: https://beevra.web.id/
 ---
 
 ## 🔬 MushScope — Mushroom Classification Application
@@ -137,7 +136,7 @@ Contributions:
 - Integrated AI classification model into application workflow
 
 Technologies:
-`Python` `FastAPI` `Google Cloud` `Computer Vision`
+`Python` `FastAPI` `Google Cloud` `Computer Vision` `Firebase`
 
 ---
 
@@ -155,7 +154,7 @@ Demo:
 https://neo-site-tawny.vercel.app/
 
 Technologies:
-`React` `AI Integration` `Frontend Development`
+`React` `Express.js` `AI Integration` `Frontend Development` 
 
 ---
 
@@ -209,6 +208,8 @@ Technologies:
 - 📧 Email  
   ghebiarmando@gmail.com
 
+- Portofolio
+  https://ghebiarmando.vercel.app/
 ---
 
 <p align="center">
