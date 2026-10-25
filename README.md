@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://github.com/OntongGhebi">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=GHEBI%20ARMANDO&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=BACKEND%20ENGINEERING%20%2F%2F%20CLOUD%20%2F%2F%20APPLIED%20AI&descAlignY=57&descSize=14&color=0:080D18,45:102A43,100:007F95&animation=fadeIn" alt="Ghebi Armando engineering profile"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=GHEBI%20ARMANDO&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=BACKEND%20ENGINEERING%20%2F%2F%20CLOUD%20%2F%2F%20AI%20INTEGRATED&descAlignY=57&descSize=14&color=0:080D18,45:102A43,100:007F95&animation=fadeIn" alt="Ghebi Armando engineering profile"/>
 </a>
 
 <br/>
